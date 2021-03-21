@@ -1,1 +1,31 @@
+CS188 Final Project
+
+Introduction:
+
+As one of California’s fastest growing FreightTech companies, NEXT is on a mission to make freight
+painless. Through complete first-to-last mile solutions, we’re defining how FreightTech can transform
+the $800B trucking and shipping industry. From our digital freight marketplace to smart load-matching,
+our technology provides shippers with access to limitless capacity and full transparency, while
+empowering drivers to work the way they want, when they want.
+
+As we build the most trusted brand for our customers, we are creating the best place to work for our
+growing team of top talent from the tech and logistics industries. We have been recognized as one of
+Built in LA’s Best Small Companies to Work For and 50 Startups to Watch.
+
+Founded in 2015, NEXT Trucking is backed by Brookfield Ventures, one of the world’s largest
+infrastructure investors, and Sequoia Capital, one of the most recognizable venture capital firms in the
+world.
+
+Challenge:
+
+NEXT Trucking is interested in better understanding the drivers in its network. The ultimate goal is to
+both build a predictive model capable of determining overall network capacity to handle incoming
+shipping requests as well as more effectively recruit high-performing drivers to enhance their network.
+As a first step, they are interested in developing a classification model to better determine whether or
+not a driver will be a high-performing one.
+
+You and your team (yes you will be allowed to work in groups!), will serve as consultants to NEXT
+Trucking. You will be asked to develop a predictive model for this task and report out your findings to
+them.
+
 
