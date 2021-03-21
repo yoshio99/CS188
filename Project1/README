@@ -1,1 +1,18 @@
+Project Description:
 
+For this first project we will introduce you to the end-to-end process of doing a datascience project. Our goals for this project are to:
+
+Familiarize you with the development environment for doing datascience
+Get you comfortable with the python coding required to do datascience
+Provide you with an sample end-to-end project to help you visualize the steps needed to complete a project on your own
+Ask you to recreate a similar project on a separate dataset
+In this project you will work through an example project end to end. Many of the concepts you will encounter will be unclear to you. That is OK! The course is designed to teach you
+these concepts in further detail. For now our focus is simply on having you replicate the code successfully and seeing a project through from start to finish.
+
+Here are the main steps:
+
+Get the data
+Visualize the data for insights
+Preprocess the data for your machine learning algorithm
+Select a model and train
+Does it meet the requirements? Fine tune the model
