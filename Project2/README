@@ -1,1 +1,33 @@
+CS188 Project 2 - Binary Classification Comparative Methods
+For this project we're going to attempt a binary classification of a dataset using multiple methods and compare results.
 
+Our goals for this project will be to introduce you to several of the most common classification techniques, how to perform them and tweek parameters to optimize outcomes, how to 
+produce and interpret results, and compare performance. You will be asked to analyze your findings and provide explanations for observed performance.
+
+Specifically you will be asked to classify whether a patient is suffering from heart disease based on a host of potential medical factors.
+
+DEFINITIONS
+
+Binary Classification: In this case a complex dataset has an added 'target' label with one of two options. Your learning algorithm will try to assign one of these labels to the data.
+
+Supervised Learning: This data is fully supervised, which means it's been fully labeled and we can trust the veracity of the labeling.
+
+Background: The Dataset
+For this exercise we will be using a subset of the UCI Heart Disease dataset, leveraging the fourteen most commonly used attributes. All identifying information about the patient has been scrubbed.
+
+The dataset includes 14 columns. The information provided by each column is as follows:
+
+age: Age in years
+sex: (1 = male; 0 = female)
+cp: Chest pain type (0 = asymptomatic; 1 = atypical angina; 2 = non-anginal pain; 3 = typical angina)
+trestbps: Resting blood pressure (in mm Hg on admission to the hospital)
+cholserum: Cholestoral in mg/dl
+fbs Fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
+restecg: Resting electrocardiographic results (0= showing probable or definite left ventricular hypertrophy by Estes' criteria; 1 = normal; 2 = having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV))
+thalach: Maximum heart rate achieved
+exang: Exercise induced angina (1 = yes; 0 = no)
+oldpeakST: Depression induced by exercise relative to rest
+slope: The slope of the peak exercise ST segment (0 = downsloping; 1 = flat; 2 = upsloping)
+ca: Number of major vessels (0-3) colored by flourosopy
+thal: 1 = normal; 2 = fixed defect; 7 = reversable defect
+Sick: Indicates the presence of Heart disease (True = Disease; False = No disease)
